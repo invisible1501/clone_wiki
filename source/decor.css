@@ -1,0 +1,187 @@
+.head a li {
+    font-size: 14px;
+    padding-right: 10px ;
+    display: block;
+    float: right;
+}
+.head a li:hover {
+    color: red;
+}
+.head {
+    margin-left: 165px;
+    padding-bottom: 0px;
+    background-color: none;
+    overflow: hidden;
+}
+.container input#search {
+    width: 300px;
+    height: 22px;
+}
+.container .icon {
+    position: absolute;
+    margin-left: 286px;
+    margin-top: 4px;
+}
+.box {
+    border-bottom: thin solid rgb(0, 238, 255);
+    position: absolute;
+    margin-left: 165px;
+    margin-top: 3px;
+    border-collapse: collapse;    
+}
+.bookmark th {
+    width: fit-content;
+    font-size: 15px;
+    padding-left: 7px;
+    padding-right: 7px;
+    height: 30px;
+    border-right: thin solid rgb(0, 238, 255);
+    border-left: thin solid rgb(0, 238, 255);
+    text-align: center;
+}
+#wiki {
+    width: 165px;
+    position: absolute;
+}
+.down_arrow {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    margin-bottom: 2px;
+    margin-left: 1px;
+    border: solid black;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 3px;
+}
+.box_2 {
+    width: 86%;
+    height: 145px;
+    border: 1px solid gray;
+    margin-left: 189px;
+    margin-top: 95px;
+    border-collapse: collapse;
+    background-color: #eee;
+}
+.head_2 {
+    background-color: none;
+    overflow: hidden;
+    text-align: center;
+    margin: 0 auto;
+}
+.head_2 a {
+    text-decoration: none;
+    color: black;
+}
+.head_2 a li {
+    font-size: 16px;
+    padding-right: 13px;
+    display: inline;
+}
+.head_2 a li:hover {
+    color: blue;
+}
+.A li {
+    font-size: 16px;
+    padding-right: 6px;
+    float: left;
+    list-style-position: inside;
+}
+.A {
+    margin: 0 auto;
+}
+.table {
+    margin-left: 173px;
+    margin-top: 0px;
+    border-collapse: separate;
+    border-spacing: 15px;
+}
+.table_1, .table_2, .table_3, .table_4 {
+    border: thin solid gray;
+    border-collapse: separate;
+    border-spacing: 15px;
+    width: 638.5px;
+    margin-bottom: 15px;
+}
+#Hammer_Chalamet {
+    width: 150px;
+    height: 95px;
+    float: right;
+    object-fit: cover;
+}
+.B {
+    margin: 0 auto;
+}
+.B li {
+    font-weight: bold;
+    list-style-position: inside;
+    font-size: 17px;
+    float: left;
+    display: block;
+    padding-right: 19px;
+}
+#Lil_Uzi_Vert {
+    width: 90px;
+    height: 140px;
+    float: right;
+    object-fit: cover;
+}
+#Banh_mi_thanh_long {
+    width: 90px;
+    height: 130px;
+    float: right;
+    object-fit: cover;
+}
+#Uss_nevada {
+    width: 120px;
+    height: 80px;
+    object-fit: cover;
+    float: right;
+}
+.table_5, .table_6 {
+    border: thin solid gray;
+    border-collapse: separate;
+    border-spacing: 15px;
+    width: 638.5px;
+}
+#Audrey_Hepburn_smokes {
+    width: 100px;
+    height: 150px;
+    object-fit: cover;
+    float: right;
+}
+ul#menu li {
+    list-style-position: inside;
+    display: inline;
+}
+ul#menu {
+    list-style-type: square;
+}
+.table_7, .table_8 {
+    border: thin solid gray;
+    border-collapse: separate;
+    width: 1292px;
+    border-spacing: 15px;
+}
+#song_bang {
+    width: 34%;
+    object-fit: cover;
+    margin-left: 33%;
+}
+.table_8 tr td {
+    background-color: rgb(241, 240, 240);
+}
+#button {
+    background-color: blue; 
+    border: none; 
+    height: 34px; 
+    width: 22%; 
+    margin-left: 39%; 
+    margin-top: 8px; 
+    font-size: 15px; color: white; 
+    webkit-border-radius: 15px;
+    -moz-border-radius: 15px; 
+    border-radius: 3px;
+}
+#button:hover {
+    background-color: rgb(101, 131, 230);
+}
